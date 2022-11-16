@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3aXOK4WY8p3O1CpRbaj4d0+Lry37yZPD7/bs+TgNJBm+xUcSejBcA9NsXwsswagxzQ49pWg2aqbdJmY/L8bNw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Desktop\\Test\\Task 3 classes\\ExampleCode\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
