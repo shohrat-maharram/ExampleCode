@@ -16,7 +16,7 @@ namespace Application
             services.AddScoped<ILetterTypeRepository, LetterTypeRepository>();
             services.AddScoped<IAdvanceNoticeRepository, AdvanceNoticeRepository>();
             services.AddScoped<IAddressRepository, AddressRepository>();
-			services.AddScoped<IBBServiceEntities, BBServiceEntities>();
+            services.AddScoped<IBBServiceEntities, BBServiceEntities>();
         }
     }
 }
